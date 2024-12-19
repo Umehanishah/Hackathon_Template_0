@@ -17,7 +17,7 @@ export default function Header() {
                         Browse through our diverse range of meticulosly cradted garments, designed to bring out your individuality and cater to your sense of style.</p>
                     <Button className="rounded-3xl px-10 py-5 mt-10">
                         <Link href="/shop">Shop Now</Link></Button>
-                    <div className="grid grid-cols-2 md:grid-cols-3 md:pb-16 text-center md:text-left">
+                    <div className="grid grid-cols-2 md:grid-cols-3 md:pb-10 text-center md:text-left">
                     <p className="text-xl md:text-4xl font-bold leading-5 pt-10">200+ <br/> 
                     <span className="text-sm font-light text-gray-500">International Brands</span></p>
                     <p className="text-xl md:text-4xl font-bold leading-5 pt-10">2,000+ <br/> 
