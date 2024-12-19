@@ -26,7 +26,7 @@ export default function Header() {
                     <span className="text-sm font-light text-gray-500">Happy Customers</span></p>
                     </div>
                     </div>
-                    <div className="grid grid-cols-3 md:grid-cols-2 md:gap-96 md:pl-20">
+                    <div className="grid grid-cols-3 md:grid-cols-2 md:pb-5 md:gap-96 md:pl-40">
                         <Image src="/img-2.png" alt="img-2" width={50} height={50} className="md:pt-80"/>
                         <Image src="/img-1.1.png" alt="img-2" width={500} height={300} className="md:pt-80 block md:hidden"/>
                         <Image src="/img-2.png" alt="img-2" width={80} height={80} className="pt-20 md:pt-32"/>
