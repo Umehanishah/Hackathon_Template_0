@@ -28,7 +28,7 @@ export default function Header() {
                     </div>
                     <div className="grid grid-cols-3 md:grid-cols-2 md:gap-96 md:pl-20">
                         <Image src="/img-2.png" alt="img-2" width={50} height={50} className="md:pt-80"/>
-                        <Image src="/img-1.1.png" alt="img-2" width={500} height={300} className="md:pt-80"/>
+                        <Image src="/img-1.1.png" alt="img-2" width={500} height={300} className="md:pt-80 block md:hidden"/>
                         <Image src="/img-2.png" alt="img-2" width={80} height={80} className="pt-20 md:pt-32"/>
                     </div> 
                 </div>
