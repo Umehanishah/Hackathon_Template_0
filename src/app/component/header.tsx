@@ -9,7 +9,7 @@ export default function Header() {
             
                 <div className="md:grid grid-cols-2 
                 bg-gray-100
-                md:bg-[url('/img-1.png')] w-full repeat-0 px-10 md:px-28">
+                md:bg-[url('/img-1.png')] w-full bg-no-repeat px-10 md:px-28">
                     <div>
                     <h1 className="text-3xl md:text-6xl font-extrabold pt-5 md:pt-44 leading-tight">
                         FIND CLOTHES THAT MATCHES YOUR STYLE</h1>
